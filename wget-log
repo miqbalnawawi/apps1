@@ -1,0 +1,11 @@
+--2023-11-20 02:45:54--  https://mariadb.org/mariadb_release_signing_key.asc
+Resolving mariadb.org (mariadb.org)... 2a01:4f8:c012:39f8::1, 157.90.247.81
+Connecting to mariadb.org (mariadb.org)|2a01:4f8:c012:39f8::1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6575 (6.4K) [application/octet-stream]
+Saving to: ‘STDOUT’
+
+-                                         0%[                                                                                ]       0  --.-KB/s               -                                       100%[===============================================================================>]   6.42K  --.-KB/s    in 0s      
+
+2023-11-20 02:45:55 (5.66 GB/s) - written to stdout [6575/6575]
+
